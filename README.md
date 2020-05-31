@@ -1,5 +1,5 @@
 # Reddit Feedback Bot
-Reddit bot used for (r/IndieMusicFeedback)[https://www.reddit.com/r/IndieMusicFeedback/] which allows an automatic comments/post ratio for users to be enforced
+Reddit bot used for [r/IndieMusicFeedback](https://www.reddit.com/r/IndieMusicFeedback/) which allows an automatic comments/post ratio for users to be enforced
 
 # Getting started
 
